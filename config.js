@@ -26,15 +26,15 @@ import moment from 'moment-timezone'
 /*==============USER-INFO==============*/
 global.owner = [
   ['8801853262586', 'ꜱʟᴀꜱʜᴇʀ ᴏꜰꜰɪᴄɪᴀʟ', true], 
-  ['put your number', 'your-name', true] 
+  ['94742678276', '꧁ ꜱʟ | 𝐂 ｚａｄｕｐａ ☛☚ ꧂3 𝛁', true] 
 ] 
 
-global.mods = ['put-your-number','8801853262586'] //Don't replace this,If you want to add someone add any dev
-global.prems = ['put-premium-user-number','']
-global.nomorbot = 'your-bot-number' //Change it to your own
-global.nomorown = 'owner-number' //Change it to your own
-global.namebot = 'bot-name' //change it to your own
-global.nameown = 'owner-name' // change it to your own
+global.mods = ['94764829228','8801853262586'] //Don't replace this,If you want to add someone add any dev
+global.prems = ['put-premium-user-number','94742678276']
+global.nomorbot = '94764829228' //Change it to your own
+global.nomorown = '94742678276' //Change it to your own
+global.namebot = '*•.¸♡ ＳＡＤＵＰＡ ＭＤ ＷＰ ＢＯＴ ♡¸.•*' //change it to your own
+global.nameown = 'ᄃんﾑﾶﾑズﾑ 乙ﾑりひｱﾑ' // change it to your own
 
 //*============= ==============*/
 
